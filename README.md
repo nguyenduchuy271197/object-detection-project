@@ -12,16 +12,15 @@
 # Directory Structures
 ```
 object-detection-project
-│   README.md
-│   file001.txt    
 │
-└───data
-│   │
-│   └───images
-│       └───   train
-│       └───   test
+└─── README.md
+│
+└─── data
+│    └───images
+│        └─── train
+│        └─── test
 │   
-└───folder2
-    │   file021.txt
-    │   file022.txt
+└─── object-detection-env
+│   
+└─── data-collection.ipynb
 ```
