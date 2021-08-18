@@ -11,12 +11,13 @@
 
 # Directory Structures
 ```
-object-detection-project
 │
 └─── README.md
 │
 └─── data
+│    │
 │    └───images
+│        │
 │        └─── train
 │        └─── test
 │   
